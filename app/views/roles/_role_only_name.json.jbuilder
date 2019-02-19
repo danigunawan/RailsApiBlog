@@ -1,0 +1,1 @@
+json.(role, :name)
